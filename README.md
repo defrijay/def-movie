@@ -3,7 +3,6 @@ Sebuah halaman website untuk menampilkan film - film populer saat ini menggunaka
 
 ## Daftar Isi
 - [Tumpukan Teknologi](#tumpukan-teknologi)
-- [API](#api)
 - [Fitur](#fitur)
 - [Beberapa Dokumentasi Halaman](#beberapa-dokumentasi-halaman)
 - [Cara Instalasi](#cara-instalasi)
@@ -13,7 +12,10 @@ Sebuah halaman website untuk menampilkan film - film populer saat ini menggunaka
 - **ReactJS**: Perpustakaan UI untuk membangun antarmuka pengguna
 - **Axios**: Library HTTP client berbasis Promise untuk melakukan request ke API
 
-## API
+### Bahasa Pemograman
+- **JavaScript**: Bahasa pemrograman yang digunakan untuk mengembangkan antarmuka pengguna yang dinamis dan interaktif
+
+### API
 Proyek ini menggunakan API untuk mendapatkan data dari `The Movie Database API`
 
 ## Fitur
